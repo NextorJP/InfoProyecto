@@ -16,10 +16,25 @@
 ![Alt text](Arquitectura-Aplicación-Web.png) 
 
 ## MODULOS: 
-
+la aplicación web contara con los siguientes módulos:
+- Módulo de gestión de usuarios
+- Módulo de inventario
+- Módulo de ventas
+- Módulo de pagos
 
 ## HERRAMIENTAS:
+Herramientas para organizar, planear, estructurar y desarrollar la aplicación web:
+- Git
+- Github
+- Trello
+- Docker
+- Stark tecnologico: Plataforma en la Nube (Docker Hub ó Heroku)
+- Lenguaje JavaScript
+- Mongo DB y MongoDb Atlas
+- Node.Js
+- Express
+- React JS
+
+
 
 ---
-Hola Soy Nestor, mi primer commit
-Hola mi segundo commit
