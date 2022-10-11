@@ -35,6 +35,4 @@ Herramientas para organizar, planear, estructurar y desarrollar la aplicación w
 - Express
 - React JS
 
-
-
 ---
