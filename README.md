@@ -1,5 +1,5 @@
 # EQUIPO RETREADS
-![Alt text](Logo.jpg) 
+![Alt text](LogoDraft.jpg) 
 
 ## INTEGRANTES
 1. Desarrollador: 
