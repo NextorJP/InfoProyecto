@@ -1,4 +1,12 @@
 # EQUIPO RETREADS
+
+## INTEGRANTES
+- 1. Desarrollador: 
+- 2. Analista:
+- 3. Product owner:
+- 4. Administrador de BD:
+- 5. Scrum master: Nestor Guillermo Jiménez Peña,CC.17417536     
+
 ## DESCRIPCION DEL PROYECTO
 - Proyecto por desarrollar:  WEB para el restaurante de comidas mixtas
 - Nombre del Proyecto: MIXTO'S
